@@ -1,7 +1,6 @@
 # Folders
-
+venv/
 drawio/
-
 .ipynb_checkpoints/
 
 # Files
